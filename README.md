@@ -7,3 +7,6 @@ Română:
 
 Va rog nu instalati un virus pe sistemul vostru real, eu nu sunt responsabil pentru voi, daca vrei neapărat să instalezi virusi, eu îți recomand pe o mașină virtuală;
 Dacă vrei lucruri care nu sunt virusii, intri pe (Useful Things)>Pe ce vrei tu! Dacă nu vezi acest folder mai astepți până se va băga!
+
+
+Password from all arhives: youarethebest
